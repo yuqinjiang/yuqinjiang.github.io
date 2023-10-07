@@ -6,6 +6,9 @@ main:
   - title: "Education"
     url: /education/    
 
+  - title: "CV"
+    url: /files/CV_YuqinJiang.pdf"
+    
   - title: "Research"
     url: /research/
     
