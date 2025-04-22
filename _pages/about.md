@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Postdoctoral Scholar
-## Department of Geography and Environmental Studies<br>Texas State University
+# Assistant Professor
+## Department of Geography and Environment<br>University of Hawaiʻi at Mānoa
 
-Dr. Yuqin Jiang is a Postdoctoral Scholar in the [Department of Geography and Environmental Studies](https://www.geo.txst.edu/) at the Texas State University. She received B.A. in Geography from University at Buffalo, the State University of New York. She received M.S. (2017) and Ph.D. (2022) in Geography from University of South Carolina. Dr. Jiang worked as a postdoc researcher in Zachry Department of Civil and Environmental Engineering in Texas A&M University from 2022 to 2023 before she joined Texas State University in 2023 summer.
+Dr. Yuqin Jiang is an Assistant Professor in the [Department of Geography and Environment](https://geography.manoa.hawaii.edu/) at the University of Hawaiʻi at Mānoa. She received B.A. in Geography from University at Buffalo, the State University of New York. She received M.S. (2017) and Ph.D. (2022) in Geography from University of South Carolina. Before joining the University of Hawaiʻi at Mānoa, Dr. Jiang was a postdoc with the Department of Geography an Environmental Studies at Texas State University (2023-2024) and with the Zachry Department of Civil and Environmental Engineering, Texas A&M University (2022-2023).
 
 
