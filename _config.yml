@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuqin Jiang's Homepage"
 title_separator          : "-"
 name                     : &name "Yuqin Jiang"
-description              : &description "postdoctoral scholar"
+description              : &description "Assistant Professor"
 url                      : https://yuqinjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuqinjiang/yuqinjiang.github.io"
@@ -78,12 +78,12 @@ analytics:
 author:
   name             : "Yuqin Jiang"
   avatar           : "Capture.PNG"
-  bio              : "Postdoctoral Scholar at Texas State University"
-  location         : "San Marcos, TX"
+  bio              : "Assistant Professor at University of Hawaii at Manoa"
+  location         : "Honolulu, HI"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BaMTux0AAAAJ&hl=en"
-  email            : "yuqinjiang@txstate.edu"
+  email            : "yuqinj@hawaii.edu"
   # researchgate     : 
   
   
